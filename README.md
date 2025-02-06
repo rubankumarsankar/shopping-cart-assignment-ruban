@@ -77,6 +77,14 @@ The below is a sample with the correct values you can use to confirm your calcul
 
 
 ## CODE RUN 
+ 
 
-  -- npm run serve-products 
+  Step -1 : Open New terminal type this command run the server 
+
+  -- npm run serve-products  
+
+
+   Step -2 : new terminal run this commend get the output in console 
+
+
   -- npm index.js
