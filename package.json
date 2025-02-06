@@ -1,0 +1,16 @@
+{
+  "name": "shopping-cart-assignment",
+  "version": "1.0.0",
+  "description": "Shopping cart assignment for interviews",
+  "main": "index.js",
+  "scripts": {
+    "serve-products": "json-server --watch db.json --port 3001"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "jest": "^29.7.0"
+  }
+}
